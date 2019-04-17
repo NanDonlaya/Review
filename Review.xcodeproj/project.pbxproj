@@ -14,6 +14,7 @@
 		3692D04E2266FB800085B3B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3692D04C2266FB800085B3B1 /* LaunchScreen.storyboard */; };
 		3692D0592266FBDD0085B3B1 /* AuthenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3692D0582266FBDD0085B3B1 /* AuthenViewController.swift */; };
 		3692D05B2266FDBA0085B3B1 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3692D05A2266FDBA0085B3B1 /* MainViewController.swift */; };
+		3692D061226737080085B3B1 /* Authen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3692D060226737080085B3B1 /* Authen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		3692D04F2266FB800085B3B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3692D0582266FBDD0085B3B1 /* AuthenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthenViewController.swift; sourceTree = "<group>"; };
 		3692D05A2266FDBA0085B3B1 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		3692D060226737080085B3B1 /* Authen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Authen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		3692D0572266FBC20085B3B1 /* Storyboard */ = {
 			isa = PBXGroup;
 			children = (
+				3692D060226737080085B3B1 /* Authen.storyboard */,
 			);
 			path = Storyboard;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3692D04E2266FB800085B3B1 /* LaunchScreen.storyboard in Resources */,
+				3692D061226737080085B3B1 /* Authen.storyboard in Resources */,
 				3692D04B2266FB800085B3B1 /* Assets.xcassets in Resources */,
 				3692D0492266FB7B0085B3B1 /* Main.storyboard in Resources */,
 			);
