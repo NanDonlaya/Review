@@ -10,10 +10,12 @@ import UIKit
 
 class MainViewController: UIViewController {
 
+    @IBOutlet weak var mainLabel: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+        self.mainLabel.text = "MainPage"
     }
     
 
